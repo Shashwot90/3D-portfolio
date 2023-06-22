@@ -198,9 +198,9 @@ import {
   
   const projects = [
     {
-      name: "Car Rent",
+      name: "Ecommerce",
       description:
-        "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
+        "Web-based platform that allows users to buy different products.",
       tags: [
         {
           name: "react",
@@ -216,12 +216,12 @@ import {
         },
       ],
       image: carrent,
-      source_code_link: "https://github.com/",
+      source_code_link: "https://github.com/Shashwot90/ecom",
     },
     {
-      name: "Job IT",
+      name: "Metaversus",
       description:
-        "Web application that enables users to search for job openings, view estimated salary ranges for positions, and locate available jobs based on their current location.",
+        "Web site with modern visuals and designs and new UI/UX concept.",
       tags: [
         {
           name: "react",
@@ -237,12 +237,12 @@ import {
         },
       ],
       image: jobit,
-      source_code_link: "https://github.com/",
+      source_code_link: "https://github.com/Shashwot90/metaversus",
     },
     {
-      name: "Trip Guide",
+      name: "AI Summarizer",
       description:
-        "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
+        "A comprehensive summarizing tool used to get summary of any website that you want.",
       tags: [
         {
           name: "nextjs",
@@ -258,7 +258,7 @@ import {
         },
       ],
       image: tripguide,
-      source_code_link: "https://github.com/",
+      source_code_link: "https://github.com/Shashwot90/ai_summarizer",
     },
   ];
   
